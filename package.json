@@ -1,0 +1,15 @@
+{
+  "name": "passwordvalidation",
+  "version": "1.0.0",
+  "description": "for checking if password data meets the requirements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tosimi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express-validator": "^6.6.1"
+  }
+}
